@@ -1,0 +1,1 @@
+console.log("jest stronka i dziala")
